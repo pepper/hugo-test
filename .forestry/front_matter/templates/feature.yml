@@ -1,4 +1,20 @@
 ---
 label: Feature
 hide_body: true
-fields: []
+fields:
+- name: djiweo
+  type: blocks
+  label: Djiweo
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: dwe
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Dwe
