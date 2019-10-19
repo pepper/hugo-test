@@ -18,3 +18,5 @@ fields:
     schema:
       format: markdown
   label: Dwe
+pages:
+- content/posts/Frer.md
